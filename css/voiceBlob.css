@@ -1,0 +1,5 @@
+#voiceBlob {
+    position: fixed;
+    z-index: 100;
+    transform: translate(40vw, 86vh);
+}
